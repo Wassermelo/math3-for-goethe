@@ -1,1 +1,1 @@
-# math3-for-goethe
+# math3-for-goethe.github.io
